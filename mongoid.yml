@@ -1,0 +1,5 @@
+host: localhost
+database: bhtrans
+include_root_in_json: false
+allow_dynamic_fields: false
+persist_in_safe_mode: false
